@@ -1,0 +1,26 @@
+/.vscode
+/accuracy_plot.png
+/accuracy_plot_0.004_LR.png
+/accuracy_plot_0.4_LR.png
+/accuracy_plot_2.004_LR.png
+/accuracy_plot_2layer_0.4_LR.png
+/accuracy_plot_3layer_0.4_LR.png
+/CM_100_epochs.png
+/Confusion matrix_0.4_LR.png
+/Confusion matrix_test_set_0.4_LR.png
+/Confusion matrix_train_set_0.4_LR.png
+/early_stopping_accuracy_decrease.png
+/early_stopping_loss_increase.png
+/hmw2.doc
+/hmw2.py
+/Hmw2_rough.ipynb
+/HW2 NN&DL.pdf
+/losses_plot.png
+/losses_plot_0.4_LR.png
+/My_first_program.ipynb
+/New folder
+/test.csv
+/train_valid.csv
+/valid.csv
+/Validation_not_100.png
+/weird_accruacy_0.4_LR.png
